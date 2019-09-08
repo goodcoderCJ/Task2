@@ -1,11 +1,41 @@
-
-
-
+body{
+    background-color: rgb(128, 211, 211);
+    color:rgb(189, 105, 105);
+}
+.second-body{
+    background: url("img/Chrysanthemum.jpg");
+    color: rgb(2, 151, 82);
+    font-size: 18px;
+    
+}
+button{
+    background-color: rgb(2, 151, 82);
+    color: rgb(231, 0, 0);
+    border-radius: 20px;
+}
+a{
+    text-decoration: none;
+    color: red;
+ 
+    border-radius: 30px;
+    background-color: white;
+    
+}
+img{
+    border-radius: 100%;
+    margin-left: 450px;
+    
+}
+.main-container{
+    text-align: center;
+    margin-top: 90px;
+}
 
 .first-container{
     text-align: center;
-    margin-top: -180px;
+    margin-top: 2px;
 }
+
 .data1{
     padding-left: 330px;
 }
@@ -39,6 +69,9 @@
 .data8{
     padding-left: 280px;
 }
+
+
+
 
 
 
